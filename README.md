@@ -33,8 +33,8 @@ Olá! Sou Marco Antônio, desenvolvedor em formação. Tenho grande entusiasmo p
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcxz24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcxz24&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcxz24&theme=radical" alt="Estatísticas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcxz24&theme=radical" alt="Linguagens" />
 </p>
 
 ---
