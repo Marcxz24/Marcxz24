@@ -30,6 +30,15 @@ Olá! Sou Marco Antônio, desenvolvedor em formação. Tenho grande entusiasmo p
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcxz24&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcxz24&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
 ## 🎓 Certificações
 * **Algoritmos e Lógica de Programação** - Curso em Vídeo
 * **MySQL** - Curso em Vídeo
