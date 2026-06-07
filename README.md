@@ -1,16 +1,39 @@
-## Hi there 👋
+# 💻 Marco Antônio Queiroz Ribeiro
 
-<!--
-**Marcxz24/Marcxz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Focado em C# e .NET | Buscando soluções eficientes
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Olá! Sou Marco Antônio, desenvolvedor em formação. Tenho grande entusiasmo por construir soluções tecnológicas e transformar problemas em código. Atualmente, foco meus estudos no ecossistema .NET, priorizando sempre a qualidade do código e as boas práticas de desenvolvimento.
+
+* **Especialização:** Desenvolvimento Back-end com C# e .NET
+* **Paixão:** Arquitetura de software e resolução de problemas lógicos
+* **Mindset:** Clean code, boas práticas e aprendizado contínuo
+
+---
+
+## 🛠 Tech Stack
+
+### Back-End
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+---
+
+## 🎓 Certificações
+* **Algoritmos e Lógica de Programação** - Curso em Vídeo
+* **MySQL** - Curso em Vídeo
+
+---
+📫 **Como me encontrar:**
+* [LinkedIn](https://www.linkedin.com/in/marco-ant%C3%B4nio-queiroz-ribeiro-31723730b/?skipRedirect=true)
