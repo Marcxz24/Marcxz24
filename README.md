@@ -43,7 +43,7 @@ Olá! Sou Marco Antônio, desenvolvedor em formação. Tenho grande entusiasmo p
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcxz24&theme=radical" alt="Estatísticas" />
     </td>
     <td>
-      <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Marcxz24&layout=pie&theme=radical" alt="Linguagens"](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcxz24&layout=pie&bg_color=0D1117&title_color=D73A4A&text_color=BFC6D1&color_1=22863A&color_2=F9E05E&color_3=6F42C1&color_4=E36209&color_5=0366D6&hide_border=true) />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcxz24&layout=pie&bg_color=0D1117&title_color=D73A4A&text_color=BFC6D1&color_1=22863A&color_2=F9E05E&color_3=6F42C1&color_4=E36209&color_5=0366D6&hide_border=true" />
     </td>
   </tr>
 </table>
